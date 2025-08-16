@@ -1,0 +1,29 @@
+Brands: Data for the smws and distillery commands
+Format and available fields:
+                {
+                  "brands": [
+                    {
+                      "id": "1",
+                      "codes": ["1"],
+                      "name": "Glenfarclas",
+                      "region": "Speyside",
+                      "style": "Highland Style",
+                      "details": {
+                        "description": "One of the few family-owned distilleries in Scotland, known for their traditional sherry-cask maturation.",
+                        "notes": "Rich sherry, dried fruits, chocolate, spices",
+                        "established": "1836"
+                      }
+                    },
+                    {
+                      "id": "2",
+                      "codes": ["2"],
+                      "name": "Glenlivet",
+                      "region": "Speyside",
+                      "style": "Light and Floral",
+                      "details": {
+                        "description": "One of the oldest licensed distilleries in Scotland.",
+                        "notes": "Apple, pear, citrus, vanilla"
+                      }
+                    }
+                  ]
+                }

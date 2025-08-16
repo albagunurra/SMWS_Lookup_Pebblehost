@@ -1,0 +1,15 @@
+{
+    "highland park": {
+        "description": "Detailed info about Highland Park...",
+        "location": "Orkney, Scotland",
+        "founded": "1798",
+        "signature_expression": "12 Year Old Viking Honour",
+        "production_style": "Lightly peated"
+    },
+    "glenfarclas": {
+        "description": "Detailed info about Glenfarclas...",
+        "location": "Speyside, Scotland",
+        "founded": "1836",
+        "known_for": "Sherry cask maturation"
+    }
+}

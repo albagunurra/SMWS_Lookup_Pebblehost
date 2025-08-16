@@ -1,0 +1,1573 @@
+{
+  "brands": [
+    {
+      "id": "1",
+      "codes": ["1"],
+      "name": "Glenfarclas",
+      "region": "Speyside",
+      "details": {
+        "description": "The distillery is owned and run by the Grant family. The distillery has six stills which are the largest on Speyside and are heated directly by gas flames. The distillery has a production capacity of around 3.5 million litres of spirit per year. The distillery has approximately 50,000 casks maturing on site, in traditional dunnage warehouses, with stock from every year from 1952 to the current year.",
+        "notes": "Glenfarclas is renowned for its traditional full bodied style of single malt whisky. The distillery has a history of producing whiskies of varying ages and strengths. Glenfarclas produces a traditional Speyside style of whisky, being medium-bodied with notes of fruit and nuts. The distillery has a core range of single malt whiskies, which includes a 10-year-old, 12-year-old, 15-year-old, 21-year-old, 25-year-old, 30-year-old, 40-year-old, 50-year-old and 60-year-old. The distillery also produces a range of cask strength whiskies, which are released at natural strength, without the addition of water."
+      }
+    },
+    {
+      "id": "2",
+      "codes": ["2"],
+      "name": "Glenlivet",
+      "region": "Speyside"
+    },
+    {
+      "id": "3",
+      "codes": ["3"],
+      "name": "Bowmore",
+      "region": "Islay"
+    },
+    {
+      "id": "4",
+      "codes": ["4"],
+      "name": "Highland Park",
+      "region": "Orkney"
+    },
+    {
+      "id": "5",
+      "codes": ["5"],
+      "name": "Auchentoshan",
+      "region": "Lowland"
+    },
+    {
+      "id": "6",
+      "codes": ["6"],
+      "name": "Macduff",
+      "region": "Highland",
+      "details": {
+        "description": "Also for Glen Deveron distillate."
+      }
+    },
+    {
+      "id": "7",
+      "codes": ["7"],
+      "name": "Longmorn",
+      "region": "Speyside"
+    },
+    {
+      "id": "8",
+      "codes": ["8"],
+      "name": "Tamdhu",
+      "region": "Speyside"
+    },
+    {
+      "id": "9",
+      "codes": ["9"],
+      "name": "Glen Grant",
+      "region": "Speyside"
+    },
+    {
+      "id": "10",
+      "codes": ["10"],
+      "name": "Bunnahabhain",
+      "region": "Islay"
+    },
+    {
+      "id": "11",
+      "codes": ["11"],
+      "name": "Tomatin",
+      "region": "Highland"
+    },
+    {
+      "id": "12",
+      "codes": ["12"],
+      "name": "BenRiach",
+      "region": "Speyside"
+    },
+    {
+      "id": "13",
+      "codes": ["13"],
+      "name": "Dalmore",
+      "region": "Highland"
+    },
+    {
+      "id": "14",
+      "codes": ["14"],
+      "name": "Talisker",
+      "region": "Islands"
+    },
+    {
+      "id": "15",
+      "codes": ["15"],
+      "name": "Glenfiddich",
+      "region": "Speyside"
+    },
+    {
+      "id": "16",
+      "codes": ["16"],
+      "name": "Glenturret",
+      "region": "Highland"
+    },
+    {
+      "id": "17",
+      "codes": ["17"],
+      "name": "Scapa",
+      "region": "Orkney"
+    },
+    {
+      "id": "18",
+      "codes": ["18"],
+      "name": "Inchgower",
+      "region": "Speyside"
+    },
+    {
+      "id": "19",
+      "codes": ["19"],
+      "name": "Glen Garioch",
+      "region": "Highland"
+    },
+    {
+      "id": "20",
+      "codes": ["20", "98"],
+      "name": "Inverleven",
+      "region": "Lowland",
+      "details": {
+        "notes": "Demolished in 1991."
+      }
+    },
+    {
+      "id": "21",
+      "codes": ["21"],
+      "name": "Glenglassaugh",
+      "region": "Highland"
+    },
+    {
+      "id": "22",
+      "codes": ["22"],
+      "name": "Glenkinchie",
+      "region": "Lowland"
+    },
+    {
+      "id": "23",
+      "codes": ["23", "127"],
+      "name": "Bruichladdich",
+      "region": "Islay",
+      "details": {
+        "description": "This is for Laddie distillate."
+      }
+    },
+    {
+      "id": "24",
+      "codes": ["24"],
+      "name": "Macallan",
+      "region": "Speyside"
+    },
+    {
+      "id": "25",
+      "codes": ["25"],
+      "name": "Rosebank",
+      "region": "Lowland"
+    },
+    {
+      "id": "26",
+      "codes": ["26"],
+      "name": "Clynelish",
+      "region": "Highland"
+    },
+    {
+      "id": "27",
+      "codes": ["27", "114", "126"],
+      "name": "Springbank",
+      "region": "Campbeltown"
+    },
+    {
+      "id": "28",
+      "codes": ["28"],
+      "name": "Tullibardine",
+      "region": "Highland"
+    },
+    {
+      "id": "29",
+      "codes": ["29"],
+      "name": "Laphroaig",
+      "region": "Islay"
+    },
+    {
+      "id": "30",
+      "codes": ["30"],
+      "name": "Glenrothes",
+      "region": "Speyside"
+    },
+    {
+      "id": "31",
+      "codes": ["31"],
+      "name": "Isle of Jura",
+      "region": "Islands"
+    },
+    {
+      "id": "32",
+      "codes": ["32"],
+      "name": "Edradour",
+      "region": "Highland"
+    },
+    {
+      "id": "33",
+      "codes": ["33"],
+      "name": "Ardbeg",
+      "region": "Islay"
+    },
+    {
+      "id": "34",
+      "codes": ["34"],
+      "name": "Tamnavulin",
+      "region": "Speyside"
+    },
+    {
+      "id": "35",
+      "codes": ["35"],
+      "name": "Glen Moray",
+      "region": "Speyside"
+    },
+    {
+      "id": "36",
+      "codes": ["36"],
+      "name": "Benrinnes",
+      "region": "Speyside"
+    },
+    {
+      "id": "37",
+      "codes": ["37"],
+      "name": "Cragganmore",
+      "region": "Speyside"
+    },
+    {
+      "id": "38",
+      "codes": ["38"],
+      "name": "Caperdonich",
+      "region": "Speyside",
+      "details": {
+        "notes": "Demolished."
+      }
+    },
+    {
+      "id": "39",
+      "codes": ["39"],
+      "name": "Linkwood",
+      "region": "Speyside"
+    },
+    {
+      "id": "40",
+      "codes": ["40"],
+      "name": "Balvenie",
+      "region": "Speyside"
+    },
+    {
+      "id": "41",
+      "codes": ["41"],
+      "name": "Dailuaine",
+      "region": "Speyside"
+    },
+    {
+      "id": "42",
+      "codes": ["42"],
+      "name": "Tobermory",
+      "region": "Islands",
+      "details": {
+        "description": "Includes Ledaig (peated)"
+      }
+    },
+    {
+      "id": "43",
+      "codes": ["43"],
+      "name": "Port Ellen",
+      "region": "Islay"
+    },
+    {
+      "id": "44",
+      "codes": ["44"],
+      "name": "Craigellachie",
+      "region": "Speyside"
+    },
+    {
+      "id": "45",
+      "codes": ["45"],
+      "name": "Dallas Dhu",
+      "region": "Speyside",
+      "details": {
+        "notes": "Closed in 1983. Now a museum."
+      }
+    },
+    {
+      "id": "46",
+      "codes": ["46"],
+      "name": "Glenlossie",
+      "region": "Speyside"
+    },
+    {
+      "id": "47",
+      "codes": ["47"],
+      "name": "Benromach",
+      "region": "Speyside"
+    },
+    {
+      "id": "48",
+      "codes": ["48"],
+      "name": "Balmenach",
+      "region": "Speyside"
+    },
+    {
+      "id": "49",
+      "codes": ["49"],
+      "name": "St. Magdalene",
+      "region": "Lowland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "50",
+      "codes": ["50"],
+      "name": "Bladnoch",
+      "region": "Lowland"
+    },
+    {
+      "id": "51",
+      "codes": ["51"],
+      "name": "Bushmills",
+      "region": "Ireland"
+    },
+    {
+      "id": "52",
+      "codes": ["52"],
+      "name": "Old Pulteney",
+      "region": "Highland"
+    },
+    {
+      "id": "53",
+      "codes": ["53"],
+      "name": "Caol Ila",
+      "region": "Islay"
+    },
+    {
+      "id": "54",
+      "codes": ["54"],
+      "name": "Aberlour",
+      "region": "Speyside"
+    },
+    {
+      "id": "55",
+      "codes": ["55"],
+      "name": "Royal Brackla",
+      "region": "Highland"
+    },
+    {
+      "id": "56",
+      "codes": ["56"],
+      "name": "Coleburn",
+      "region": "Speyside",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "57",
+      "codes": ["57"],
+      "name": "Glen Mhor",
+      "region": "Highland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "58",
+      "codes": ["58"],
+      "name": "Strathisla",
+      "region": "Speyside"
+    },
+    {
+      "id": "59",
+      "codes": ["59"],
+      "name": "Teaninich",
+      "region": "Highland"
+    },
+    {
+      "id": "60",
+      "codes": ["60"],
+      "name": "Aberfeldy",
+      "region": "Highland"
+    },
+    {
+      "id": "61",
+      "codes": ["61"],
+      "name": "Brora",
+      "region": "Highland"
+    },
+    {
+      "id": "62",
+      "codes": ["62"],
+      "name": "Glenlochy",
+      "region": "Highland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "63",
+      "codes": ["63"],
+      "name": "Glentauchers",
+      "region": "Speyside"
+    },
+    {
+      "id": "64",
+      "codes": ["64"],
+      "name": "Mannochmore",
+      "region": "Speyside"
+    },
+    {
+      "id": "65",
+      "codes": ["65"],
+      "name": "Imperial",
+      "region": "Speyside",
+      "details": {
+        "notes": "Demolished."
+      }
+    },
+    {
+      "id": "66",
+      "codes": ["66"],
+      "name": "Ardmore",
+      "region": "Highland"
+    },
+    {
+      "id": "67",
+      "codes": ["67"],
+      "name": "Banff",
+      "region": "Highland",
+      "details": {
+        "notes": "Demolished."
+      }
+    },
+    {
+      "id": "68",
+      "codes": ["68"],
+      "name": "Blair Athol",
+      "region": "Highland"
+    },
+    {
+      "id": "69",
+      "codes": ["69"],
+      "name": "Glen Albyn",
+      "region": "Highland"
+    },
+    {
+      "id": "70",
+      "codes": ["70"],
+      "name": "Balblair",
+      "region": "Highland"
+    },
+    {
+      "id": "71",
+      "codes": ["71"],
+      "name": "Glenburgie",
+      "region": "Speyside"
+    },
+    {
+      "id": "72",
+      "codes": ["72"],
+      "name": "Miltonduff",
+      "region": "Speyside"
+    },
+    {
+      "id": "73",
+      "codes": ["73"],
+      "name": "Aultmore",
+      "region": "Speyside"
+    },
+    {
+      "id": "74",
+      "codes": ["74"],
+      "name": "North Port",
+      "region": "Highland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "75",
+      "codes": ["75"],
+      "name": "Glenury / Glenury Royal",
+      "region": "Highland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "76",
+      "codes": ["76"],
+      "name": "Mortlach",
+      "region": "Speyside"
+    },
+    {
+      "id": "77",
+      "codes": ["77"],
+      "name": "Glen Ord",
+      "region": "Highland"
+    },
+    {
+      "id": "78",
+      "codes": ["78"],
+      "name": "Ben Nevis",
+      "region": "Highland"
+    },
+    {
+      "id": "79",
+      "codes": ["79"],
+      "name": "Deanston",
+      "region": "Highland"
+    },
+    {
+      "id": "80",
+      "codes": ["80"],
+      "name": "Glen Spey",
+      "region": "Speyside"
+    },
+    {
+      "id": "81",
+      "codes": ["81"],
+      "name": "Glen Keith",
+      "region": "Speyside"
+    },
+    {
+      "id": "82",
+      "codes": ["82"],
+      "name": "Glencadam",
+      "region": "Highland"
+    },
+    {
+      "id": "83",
+      "codes": ["83"],
+      "name": "Convalmore",
+      "region": "Speyside",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "84",
+      "codes": ["84"],
+      "name": "Glendullan",
+      "region": "Speyside"
+    },
+    {
+      "id": "85",
+      "codes": ["85"],
+      "name": "Glen Elgin",
+      "region": "Speyside"
+    },
+    {
+      "id": "86",
+      "codes": ["86"],
+      "name": "Glenesk",
+      "region": "Highland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "87",
+      "codes": ["87"],
+      "name": "Millburn",
+      "region": "Highland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "88",
+      "codes": ["88"],
+      "name": "Speyburn",
+      "region": "Speyside"
+    },
+    {
+      "id": "89",
+      "codes": ["89"],
+      "name": "Tomintoul",
+      "region": "Speyside"
+    },
+    {
+      "id": "90",
+      "codes": ["90"],
+      "name": "Pittyvaich",
+      "region": "Speyside",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "91",
+      "codes": ["91"],
+      "name": "Dufftown",
+      "region": "Speyside"
+    },
+    {
+      "id": "92",
+      "codes": ["92"],
+      "name": "Lochside",
+      "region": "Highland",
+      "details": {
+        "notes": "Demolished."
+      }
+    },
+    {
+      "id": "93",
+      "codes": ["93"],
+      "name": "Glen Scotia",
+      "region": "Campbeltown"
+    },
+    {
+      "id": "94",
+      "codes": ["94"],
+      "name": "Fettercairn",
+      "region": "Highland"
+    },
+    {
+      "id": "95",
+      "codes": ["95"],
+      "name": "Auchroisk",
+      "region": "Speyside"
+    },
+    {
+      "id": "96",
+      "codes": ["96"],
+      "name": "GlenDronach",
+      "region": "Highland",
+      "details": {
+        "notes": "GlenDronach is famous for its sherried whisky, often matured in Pedro Ximénez and Oloroso casks."
+      }
+    },
+    {
+      "id": "97",
+      "codes": ["97"],
+      "name": "Littlemill",
+      "region": "Lowland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "98",
+      "codes": ["98", "20"],
+      "name": "Inverleven",
+      "region": "Lowland",
+      "details": {
+        "notes": "Demolished in 1991."
+      }
+    },
+    {
+      "id": "99",
+      "codes": ["99"],
+      "name": "Glenugie",
+      "region": "Highland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "100",
+      "codes": ["100"],
+      "name": "Strathmill",
+      "region": "Speyside"
+    },
+    {
+      "id": "101",
+      "codes": ["101"],
+      "name": "Knockando",
+      "region": "Speyside"
+    },
+    {
+      "id": "102",
+      "codes": ["102"],
+      "name": "Dalwhinnie",
+      "region": "Highland"
+    },
+    {
+      "id": "103",
+      "codes": ["103"],
+      "name": "Royal Lochnagar",
+      "region": "Highland"
+    },
+    {
+      "id": "104",
+      "codes": ["104"],
+      "name": "Glenburgie (Glencraig)",
+      "region": "Speyside"
+    },
+    {
+      "id": "105",
+      "codes": ["105"],
+      "name": "Tormore",
+      "region": "Speyside"
+    },
+    {
+      "id": "106",
+      "codes": ["106"],
+      "name": "Cardhu",
+      "region": "Speyside"
+    },
+    {
+      "id": "107",
+      "codes": ["107"],
+      "name": "Glenallachie",
+      "region": "Speyside"
+    },
+    {
+      "id": "108",
+      "codes": ["108"],
+      "name": "Allt-a-Bhainne",
+      "region": "Speyside"
+    },
+    {
+      "id": "109",
+      "codes": ["109"],
+      "name": "Miltonduff (Mosstowie)",
+      "region": "Speyside"
+    },
+    {
+      "id": "110",
+      "codes": ["110"],
+      "name": "Oban",
+      "region": "Highland"
+    },
+    {
+      "id": "111",
+      "codes": ["111"],
+      "name": "Lagavulin",
+      "region": "Islay"
+    },
+    {
+      "id": "112",
+      "codes": ["112", "122", "135", "G9", "G15"],
+      "name": "Loch Lomond",
+      "region": "Highland",
+      "details": {
+        "description": "Straight Pot Still with Cooling Ring On - 85%\nInchmurrin - UnPeated / Inchmoan - Heavily Peated",
+        "notes": "Inchmurrin gets its name from the largest island in Loch Lomond. It's one of only 2 names, along with Inchmoan, that you'll see on any of the Distillery's own bottlings. But Inchmoan bottlings are actually a mariage of all three heavily peated spirit styles!!"
+      }
+    },
+    {
+      "id": "113",
+      "codes": ["113"],
+      "name": "Braeval (Braes of Glenlivet)",
+      "region": "Speyside"
+    },
+    {
+      "id": "114",
+      "codes": ["114", "126", "27"],
+      "name": "Springbank (Longrow)",
+      "region": "Campbeltown"
+    },
+    {
+      "id": "115",
+      "codes": ["115"],
+      "name": "Knockdhu (AnCnoc)",
+      "region": "Highland"
+    },
+    {
+      "id": "116",
+      "codes": ["116"],
+      "name": "Yoichi",
+      "region": "Japan"
+    },
+    {
+      "id": "117",
+      "codes": ["117", "118"],
+      "name": "Cooley (Unpeated)",
+      "region": "Ireland"
+    },
+    {
+      "id": "118",
+      "codes": ["118", "117"],
+      "name": "Cooley / Connemara (Peated)",
+      "region": "Ireland"
+    },
+    {
+      "id": "119",
+      "codes": ["119"],
+      "name": "Yamazaki",
+      "region": "Japan"
+    },
+    {
+      "id": "120",
+      "codes": ["120"],
+      "name": "Hakushu",
+      "region": "Japan"
+    },
+    {
+      "id": "121",
+      "codes": ["121"],
+      "name": "Isle of Arran",
+      "region": "Islands"
+    },
+    {
+      "id": "122",
+      "codes": ["122", "112", "135", "G9", "G15"],
+      "name": "Loch Lomond",
+      "region": "Highland",
+      "details": {
+        "description": "Straight Pot Still with Cooling Ring Off - 65%\nGlen Douglas - UnPeated / Craig Lodge - Medium Peated / Croftengea - Heavily Peated",
+        "notes": "Glen Douglas uses wider cut points and different yeasts in its fermentation. Mainly used for the company's blends, but was released briefly in the mid-2000s as a youthful Single Cask Single Malt as part of the LL's Distillery Select Collection.\nCraig Lodge is a medium peated spirit used to add complexity to LL's blends, but enjoyed a limited and temporary release as a 4yo Single Cask offering from 2005.\nCroftengea is a heavily peated spirit made mainly for use in LL's blends. It enjoyed a brief time in the spotlight during the mid-2000s as part of the LL Distillery Single Cask Releases."
+      }
+    },
+    {
+      "id": "123",
+      "codes": ["123"],
+      "name": "Glengoyne",
+      "region": "Highland"
+    },
+    {
+      "id": "124",
+      "codes": ["124"],
+      "name": "Miyagikyo",
+      "region": "Japan"
+    },
+    {
+      "id": "125",
+      "codes": ["125"],
+      "name": "Glenmorangie",
+      "region": "Highland"
+    },
+    {
+      "id": "126",
+      "codes": ["126", "114", "27"],
+      "name": "Springbank (Hazelburn)",
+      "region": "Campbeltown"
+    },
+    {
+      "id": "127",
+      "codes": ["127", "23"],
+      "name": "Bruichladdich",
+      "region": "Islay",
+      "details": {
+        "description": "This code is for Port Charlotte\nTo see if Whiskord has more info, you can check Bruichladdich at the /moreinfo command."
+      }
+    },
+    {
+      "id": "128",
+      "codes": ["128"],
+      "name": "Penderyn",
+      "region": "Wales"
+    },
+    {
+      "id": "129",
+      "codes": ["129"],
+      "name": "Kilchoman",
+      "region": "Islay"
+    },
+    {
+      "id": "130",
+      "codes": ["130"],
+      "name": "Chichibu",
+      "region": "Japan",
+      "details": {
+        "notes": "Chichibu 1."
+      }
+    },
+    {
+      "id": "131",
+      "codes": ["131"],
+      "name": "Hanyu",
+      "region": "Japan",
+      "details": {
+        "notes": "Demolished."
+      }
+    },
+    {
+      "id": "132",
+      "codes": ["132"],
+      "name": "Karuizawa",
+      "region": "Japan",
+      "details": {
+        "notes": "Demolished."
+      }
+    },
+    {
+      "id": "133",
+      "codes": ["133"],
+      "name": "Westland",
+      "region": "USA"
+    },
+    {
+      "id": "134",
+      "codes": ["134"],
+      "name": "Paul John",
+      "region": "India"
+    },
+    {
+      "id": "135",
+      "codes": ["135", "122", "112", "G9", "G15"],
+      "name": "Loch Lomond",
+      "region": "Highland",
+      "details": {
+        "description": "Traditional Swan Neck Pot Still - 70%\nInchfad - UnPeated / Inchfad MP - Medium Peated / Inchfad HP - Heavily Peated",
+        "notes": "Inchfad is a spirit made mainly for use in LL blending operations. It gets its name from an island in the SE of LL, which is home to a ruined distillery. It enjoyed a short-lived release as one of a number of single cask bottlings released by the LL Distillery in the mid-2000s."
+      }
+    },
+    {
+      "id": "136",
+      "codes": ["136"],
+      "name": "Eden Mill",
+      "region": "Lowland"
+    },
+    {
+      "id": "137",
+      "codes": ["137"],
+      "name": "St. George’s (The English Whisky Co.)",
+      "region": "England"
+    },
+    {
+      "id": "138",
+      "codes": ["138"],
+      "name": "Nantou",
+      "region": "Taiwan"
+    },
+    {
+      "id": "139",
+      "codes": ["139"],
+      "name": "Kavalan",
+      "region": "Taiwan"
+    },
+    {
+      "id": "140",
+      "codes": ["140", "CW2"],
+      "name": "Balcones",
+      "region": "USA"
+    },
+    {
+      "id": "141",
+      "codes": ["141"],
+      "name": "Fary Lochan",
+      "region": "Denmark"
+    },
+    {
+      "id": "142",
+      "codes": ["142"],
+      "name": "Breuckelen Distilling",
+      "region": "USA"
+    },
+    {
+      "id": "143",
+      "codes": ["143"],
+      "name": "Copperworks Distilling Co.",
+      "region": "USA"
+    },
+    {
+      "id": "144",
+      "codes": ["144"],
+      "name": "High Coast Distillery",
+      "region": "Sweden",
+      "details": {
+        "notes": "Formerly known as Box Whisky."
+      }
+    },
+    {
+      "id": "145",
+      "codes": ["145"],
+      "name": "Smögen Whisky",
+      "region": "Sweden"
+    },
+    {
+      "id": "146",
+      "codes": ["146", "GN7"],
+      "name": "Cotswolds",
+      "region": "England"
+    },
+    {
+      "id": "147",
+      "codes": ["147"],
+      "name": "Archie Rose",
+      "region": "Australia"
+    },
+    {
+      "id": "148",
+      "codes": ["148"],
+      "name": "Starward",
+      "region": "Australia"
+    },
+    {
+      "id": "149",
+      "codes": ["149"],
+      "name": "Ardnamurchan",
+      "region": "Highland"
+    },
+    {
+      "id": "150",
+      "codes": ["150"],
+      "name": "West Cork Distillers",
+      "region": "Ireland"
+    },
+    {
+      "id": "151",
+      "codes": ["151"],
+      "name": "Mackmyra",
+      "region": "Sweden"
+    },
+    {
+      "id": "152",
+      "codes": ["152"],
+      "name": "Shelter Point",
+      "region": "Canada"
+    },
+    {
+      "id": "153",
+      "codes": ["153"],
+      "name": "Thy Whisky",
+      "region": "Denmark"
+    },
+    {
+      "id": "154",
+      "codes": ["154"],
+      "name": "Mosgaard Whisky",
+      "region": "Denmark"
+    },
+    {
+      "id": "155",
+      "codes": ["155"],
+      "name": "Milk & Honey Distillery",
+      "region": "Israel"
+    },
+    {
+      "id": "156",
+      "codes": ["156", "G16", "GN1"],
+      "name": "Glasgow Distillery",
+      "region": "Lowland"
+    },
+    {
+      "id": "157",
+      "codes": ["157"],
+      "name": "Distillerie de Warenghem",
+      "region": "France",
+      "details": {
+        "notes": "Armorik"
+      }
+    },
+    {
+      "id": "158",
+      "codes": ["158"],
+      "name": "Yuza Distillery",
+      "region": "Japan"
+    },
+    {
+      "id": "159",
+      "codes": ["159"],
+      "name": "Mars Shinshu",
+      "region": "Japan"
+    },
+    {
+      "id": "160",
+      "codes": ["160"],
+      "name": "Mars Tsunuki",
+      "region": "Japan"
+    },
+    {
+      "id": "161",
+      "codes": ["161"],
+      "name": "Nc'nean Distillery",
+      "region": "Highland"
+    },
+    {
+      "id": "162",
+      "codes": ["162"],
+      "name": "Isle of Raasay Distillery",
+      "region": "Islands"
+    },
+    {
+      "id": "163",
+      "codes": ["163"],
+      "name": "Isle of Harris Distillery",
+      "region": "Islands"
+    },
+    {
+      "id": "G1",
+      "codes": ["G1"],
+      "name": "North British",
+      "region": "Lowland"
+    },
+    {
+      "id": "G2",
+      "codes": ["G2"],
+      "name": "Carsebridge",
+      "region": "Lowland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "G3",
+      "codes": ["G3"],
+      "name": "Caledonian",
+      "region": "Lowland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "G4",
+      "codes": ["G4"],
+      "name": "Cameronbridge",
+      "region": "Lowland"
+    },
+    {
+      "id": "G5",
+      "codes": ["G5"],
+      "name": "Invergordon",
+      "region": "Highland"
+    },
+    {
+      "id": "G6",
+      "codes": ["G6"],
+      "name": "Port Dundas",
+      "region": "Lowland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "G7",
+      "codes": ["G7"],
+      "name": "Girvan",
+      "region": "Lowland"
+    },
+    {
+      "id": "G8",
+      "codes": ["G8"],
+      "name": "Cambus",
+      "region": "Lowland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "G9",
+      "codes": ["G9", "G15", "135", "122", "112"],
+      "name": "Loch Lomond",
+      "region": "Highland",
+      "details": {
+        "description": "Continuous Steel Still - 94%\nWheat - UnPeated / Used for Blends by LL",
+        "notes": "Used in Loch Lomond's blends, you will only find this spirit bottled by indies such as SMWS."
+      }
+    },
+    {
+      "id": "G10",
+      "codes": ["G10"],
+      "name": "Strathclyde",
+      "region": "Lowland"
+    },
+    {
+      "id": "G11",
+      "codes": ["G11", "G12"],
+      "name": "Nikka Coffey Grain",
+      "region": "Japan"
+    },
+    {
+      "id": "G12",
+      "codes": ["G12", "G11"],
+      "name": "Nikka Coffey Malt",
+      "region": "Japan",
+      "details": {
+        "description": "This is malt whisky, but still tagged as grain."
+      }
+    },
+    {
+      "id": "G13",
+      "codes": ["G13"],
+      "name": "Chita",
+      "region": "Japan"
+    },
+    {
+      "id": "G14",
+      "codes": ["G14"],
+      "name": "Dumbarton",
+      "region": "Lowland",
+      "details": {
+        "notes": "Closed."
+      }
+    },
+    {
+      "id": "G15",
+      "codes": ["G15", "135", "122", "112", "G9"],
+      "name": "Loch Lomond",
+      "region": "Highland",
+      "details": {
+        "description": "Continuous Copper Still - 100% Barley - 80-85%\nRhosdu - UnPeated / Rhosdu Peated - Heavily Peated,",
+        "notes": "Although made from 100% barley in copper stills, it's the fact that this spirit is distilled in a continuous rather than batch process which means LL have to call it Single Grain Whisky.\nThey have been experimenting with different yeasts on this pair of stills so some interesting whisky will be coming along soon!"
+      }
+    },
+    {
+      "id": "G16",
+      "codes": ["156", "G16", "GN1"],
+      "name": "Glasgow Distillery",
+      "region": "Lowland",
+      "details": {
+        "description": "58% corn, 21% malted barley, 21% unmalted rye."
+      }
+    },
+    {
+      "id": "B1",
+      "codes": ["B1", "CW1"],
+      "name": "Heaven Hill",
+      "region": "Kentucky, USA"
+    },
+    {
+      "id": "B2",
+      "codes": ["B2"],
+      "name": "New Bernheim",
+      "region": "Kentucky, USA"
+    },
+    {
+      "id": "B3",
+      "codes": ["B3"],
+      "name": "Rock Town",
+      "region": "Arkansas, USA"
+    },
+    {
+      "id": "B4",
+      "codes": ["B4", "RW1"],
+      "name": "FEW Spirits",
+      "region": "Illinois, USA"
+    },
+    {
+      "id": "B5",
+      "codes": ["B5"],
+      "name": "George Dickel (Cascade Hollow)",
+      "region": "Tennessee, USA"
+    },
+    {
+      "id": "B6",
+      "codes": ["B6", "RW2"],
+      "name": "Finger Lakes Distilling",
+      "region": "New York, USA"
+    },
+    {
+      "id": "B7",
+      "codes": ["B7"],
+      "name": "MGP (Midwest Grain Products)",
+      "region": "Indiana, USA"
+    },
+    {
+      "id": "B8",
+      "codes": ["B8"],
+      "name": "Woodinville Whiskey Co.",
+      "region": "Washington, USA"
+    },
+    {
+      "id": "RW1",
+      "codes": ["RW1", "B4"],
+      "name": "FEW Spirits",
+      "region": "Illinois, USA"
+    },
+    {
+      "id": "RW2",
+      "codes": ["RW2", "B6"],
+      "name": "Finger Lakes Distilling",
+      "region": "New York, USA"
+    },
+    {
+      "id": "RW3",
+      "codes": ["RW3"],
+      "name": "New York Distilling Co.",
+      "region": "New York, USA"
+    },
+    {
+      "id": "RW4",
+      "codes": ["RW4"],
+      "name": "Peerless Distillery",
+      "region": "Kentucky, USA"
+    },
+    {
+      "id": "RW5",
+      "codes": ["RW5"],
+      "name": "MGP",
+      "region": "Indiana, USA",
+       "details": {
+        "description": "Lux Row Distillers sourcing from MGP."
+      }
+    },
+    {
+      "id": "RW6",
+      "codes": ["RW6"],
+      "name": "Kyrö Distillery",
+      "region": "Finland"
+    },
+    {
+      "id": "RW7",
+      "codes": ["RW7"],
+      "name": "Journeyman Distillery",
+      "region": "Michigan, USA"
+    },
+    {
+      "id": "CW1",
+      "codes": ["CW1", "B1"],
+      "name": "Heaven Hill",
+      "region": "Kentucky, USA"
+    },
+    {
+      "id": "CW2",
+      "codes": ["CW2", "140"],
+      "name": "Balcones",
+      "region": "Texas, USA"
+    },
+    {
+      "id": "R1",
+      "codes": ["R1"],
+      "name": "Monymusk",
+      "region": "Jamaica"
+    },
+    {
+      "id": "R2",
+      "codes": ["R2"],
+      "name": "Demerara Distillers (El Dorado)",
+      "region": "Guyana"
+    },
+    {
+      "id": "R3",
+      "codes": ["R3"],
+      "name": "West Indies Rum",
+      "region": "Barbados"
+    },
+    {
+      "id": "R4",
+      "codes": ["R4"],
+      "name": "Trinidad Distillers (Angostura)",
+      "region": "Trinidad"
+    },
+    {
+      "id": "R5",
+      "codes": ["R5"],
+      "name": "Long Pond",
+      "region": "Jamaica"
+    },
+    {
+      "id": "R6",
+      "codes": ["R6"],
+      "name": "Foursquare",
+      "region": "Barbados"
+    },
+    {
+      "id": "R7",
+      "codes": ["R7"],
+      "name": "Hampden",
+      "region": "Jamaica"
+    },
+    {
+      "id": "R8",
+      "codes": ["R8"],
+      "name": "Compañía Licorera de Nicaragua (Flor de Caña)",
+      "region": "Nicaragua"
+    },
+    {
+      "id": "R9",
+      "codes": ["R9"],
+      "name": "Varela Hermanos (Ron Abuelo)",
+      "region": "Panama"
+    },
+    {
+      "id": "R10",
+      "codes": ["R10"],
+      "name": "Trinidad Distiller’s",
+      "region": "Trinidad"
+    },
+    {
+      "id": "R11",
+      "codes": ["R11"],
+      "name": "Worthy Park",
+      "region": "Jamaica"
+    },
+    {
+      "id": "R12",
+      "codes": ["R12"],
+      "name": "Travellers",
+      "region": "Belize"
+    },
+    {
+      "id": "R13",
+      "codes": ["R13"],
+      "name": "Caroni",
+      "region": "Trinidad"
+    },
+    {
+      "id": "R14",
+      "codes": ["R14"],
+      "name": "Uitvlugt",
+      "region": "Guyana"
+    },
+    {
+      "id": "A1",
+      "codes": ["A1"],
+      "name": "Chateau de Lacaze",
+      "region": "France"
+    },
+    {
+      "id": "A2",
+      "codes": ["A2"],
+      "name": "Domaine Laguille",
+      "region": "France"
+    },
+    {
+      "id": "A3",
+      "codes": ["A3"],
+      "name": "J. Goudoulin (Veuve Goudoulin)",
+      "region": "France"
+    },
+    {
+      "id": "A4",
+      "codes": ["A4"],
+      "name": "Domaine d’Espérance",
+      "region": "France"
+    },
+    {
+      "id": "A5",
+      "codes": ["A5"],
+      "name": "Chateau de Laubade",
+      "region": "France"
+    },
+    {
+      "id": "A6",
+      "codes": ["A6", "A7"],
+      "name": "Domaine Lasalle",
+      "region": "France"
+    },
+    {
+      "id": "A7",
+      "codes": ["A7", "A6"],
+      "name": "Domaine Lasalle",
+      "region": "France"
+    },
+    {
+      "id": "A8",
+      "codes": ["A8"],
+      "name": "Domaine de Cavaillon",
+      "region": "France"
+    },
+    {
+      "id": "A9",
+      "codes": ["A9"],
+      "name": "Domaine de Saurine",
+      "region": "France"
+    },
+    {
+      "id": "C1",
+      "codes": ["C1"],
+      "name": "Camus",
+      "region": "France"
+    },
+    {
+      "id": "C2",
+      "codes": ["C2"],
+      "name": "Domaine de Chez Guérive",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Petite Champagne Controlée."
+      }
+    },
+    {
+      "id": "C3",
+      "codes": ["C3"],
+      "name": "Louis Royer",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Petite Champagne Controlée."
+      }
+    },
+    {
+      "id": "C4",
+      "codes": ["C4"],
+      "name": "Distillery D’Aumagne",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Petite Champagne Controlée."
+      }
+    },
+    {
+      "id": "C5",
+      "codes": ["C5"],
+      "name": "Tiffon Cognac",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Petite Champagne Controlée."
+      }
+    },
+    {
+      "id": "C6",
+      "codes": ["C6"],
+      "name": "M & H Bonneau",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Borderies Controlée."
+      }
+    },
+    {
+      "id": "C7",
+      "codes": ["C7"],
+      "name": "Guy Rateau",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Petite Champagne Controlée."
+      }
+    },
+    {
+      "id": "C8",
+      "codes": ["C8"],
+      "name": "Marie C. Bodit",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Petite Champagne Controlée."
+      }
+    },
+    {
+      "id": "C9",
+      "codes": ["C9"],
+      "name": "Robert Audebeau",
+      "region": "France",
+      "details": {
+        "notes": "Cognac Petite Champagne Controlée."
+      }
+    },
+    {
+      "id": "GN1",
+      "codes": ["156", "G16", "GN1"],
+      "name": "Glasgow Distillery",
+      "region": "Lowland"
+    },
+    {
+      "id": "GN2",
+      "codes": ["GN2"],
+      "name": "Strathearn Distillers",
+      "region": "Scotland"
+    },
+    {
+      "id": "GN3",
+      "codes": ["GN3"],
+      "name": "The Borders Distillery",
+      "region": "Scotland"
+    },
+    {
+      "id": "GN4",
+      "codes": ["GN4"],
+      "name": "Boatyard Distillery",
+      "region": "Scotland"
+    },
+    {
+      "id": "GN5",
+      "codes": ["GN5"],
+      "name": "Glenrinnes",
+      "region": "Scotland"
+    },
+    {
+      "id": "GN6",
+      "codes": ["GN6"],
+      "name": "Holyrood Distillery",
+      "region": "Edinburgh, Scotland"
+    },
+    {
+      "id": "GN7",
+      "codes": ["GN7", "146"],
+      "name": "Cotswolds",
+      "region": "England"
+    }
+  ]
+}
