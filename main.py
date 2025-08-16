@@ -3,7 +3,7 @@ import asyncio
 import signal
 import discord
 from discord.ext import commands
-from config import load_config
+from config import DISCORD_TOKEN, APPLICATION_ID
 
 # Set up bot with necessary intents
 intents = discord.Intents.default()
@@ -19,7 +19,7 @@ class SMWSBot(commands.Bot):
         super().__init__(
             command_prefix='!',
             intents=intents,
-            application_id=int(os.getenv('APPLICATION_ID'))  # Add this if available
+            application_id=int(APPLICATION_ID) if APPLICATION_ID else None
         )
         self.initial_extensions = ['cogs.brand_commands']
 
@@ -123,7 +123,7 @@ async def run_bot_with_retry():
     for attempt in range(max_retries):
         try:
             print(f"Attempting to connect to Discord (attempt {attempt + 1}/{max_retries})")
-            await bot.start(os.getenv('DISCORD_TOKEN'))
+            await bot.start(DISCORD_TOKEN)
             break  # If successful, break out of retry loop
             
         except discord.HTTPException as e:

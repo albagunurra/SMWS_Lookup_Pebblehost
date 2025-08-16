@@ -1,17 +1,22 @@
 import os
-from dotenv import load_dotenv
+try:
+    from secrets import DISCORD_TOKEN, APPLICATION_ID
+except ImportError:
+    # Fallback to environment variables if secrets.py doesn't exist
+    DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
+    APPLICATION_ID = os.getenv('APPLICATION_ID')
 
 def load_config():
-    """Load configuration from environment variables"""
-    load_dotenv()
+    """Load configuration from secrets.py or environment variables"""
     
-    required_vars = ['DISCORD_TOKEN']
-    config = {}
+    config = {
+        'DISCORD_TOKEN': DISCORD_TOKEN,
+        'APPLICATION_ID': APPLICATION_ID
+    }
     
-    for var in required_vars:
-        value = os.getenv(var)
+    # Check if required variables are present
+    for key, value in config.items():
         if not value:
-            raise ValueError(f"Missing required environment variable: {var}")
-        config[var] = value
+            raise ValueError(f"Missing required configuration: {key}")
     
     return config

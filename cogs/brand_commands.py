@@ -25,7 +25,7 @@ class BrandCommands(commands.Cog):
     def load_brands(self):
         try:
             logger.debug("Attempting to load brands.json")
-            with open('home/container/Bot2/data/brands.json', 'r', encoding='utf-8') as f:
+            with open('/home/container/Bot2/data/brands.json', 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 
                 for brand in data['brands']:
@@ -166,7 +166,7 @@ class BrandCommands(commands.Cog):
                 
             try:
                 # Load the original JSON data to check IDs
-                with open('home/container/Bot2/data/brands.json', 'r', encoding='utf-8') as f:
+                with open('/home/container/Bot2/data/brands.json', 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     logger.debug(f"Successfully loaded brands.json")
             except FileNotFoundError:
@@ -320,7 +320,7 @@ class BrandCommands(commands.Cog):
 
             # Get information from each code's entry
             # Load the original JSON data to get complete entries
-            with open('home/container/Bot2/data/brands.json', 'r', encoding='utf-8') as f:
+            with open('/home/container/Bot2/data/brands.json', 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 
             # Find all entries that match our codes
